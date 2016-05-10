@@ -1,6 +1,7 @@
 # Loïc Ledoyen - Développeur Java
 
-Au cours de mes missions, je suis amené à bootstraper de nouveaux projets et à mettre en place l’outillage permettant de conserver ou de retrouver la maitrise du code.
+Au cours de mes missions, j'ai été amené à bootstraper de nouveaux projets et à mettre en place l’outillage permettant de conserver ou de retrouver la maitrise du code.
+
 Oscillant entre le développement et l’architecture logicielle, je considère que la veille technologique fait partie de mon métier et fait profiter des meilleures solutions aux projets de mes clients.
 
 ## Compétences
@@ -18,28 +19,23 @@ Oscillant entre le développement et l’architecture logicielle, je considère 
 * HTML, CSS, JS, Jquery, Bootstrap, AngularJS
 * Design patterns (chaîne de responsabilité, visitor, wrapper, façade, singleton, etc.)
 * Scrum, XP
-* Veille technologique
 
 ## Expériences
 
 ### Aout 2014 – maintenant
 > ERDF (Linky), équipe de 25 personnes, Paris
 
-Développement d’un outil pour le test du système (15 JVM, 3 bases Oracle, middleware JMS, OMA-DS)
-Architecture et développement en Java d’un module initialement développé en C++
-Mise en place de la supervision (monitoring et troubleshooting)
-
-* Création d’un outil de tests fonctionnels orienté plugin
+* Développement d’un outil orienté plugin pour le test du système (15 JVM, 3 bases Oracle, middleware JMS, OMA-DS).
   * Développement de connecteurs (OMA-DS, JMS, SSH, JDBC, JMX)
   * Création d’un formalisme XML pour testeurs fonctionnels “non-codeurs”
-  * Génération automatique de la documentation
-* Architecture et développement d’un projet en Java 8 destiné à recevoir des centaines de milliers de connexions OMA-DS
+  * Génération automatique de la documentation des tests
+* Architecture et développement en Java 8 d'un projet initialement codé en C++ destiné à recevoir des centaines de milliers de connexions OMA-DS
   * Cadrage technique et accompagnement (Java 8 / OMA-DS)
   * Mise en place des bonnes-pratiques avec l’équipe
   * Développement d’une structure pour les tests “sans IO”
   * Mise en place d’indicateurs JMX (Metrics + dynamicMXBean) pour le monitoring
 * Architecture et développement d’un projet traçant toutes les connexions avec le système, respectant les critères : fiabilité et haute disponibilité)
-* Mise en place de la supervision
+* Mise en place de la supervision (monitoring et troubleshooting)
   * [JmxTrans](https://github.com/jmxtrans/jmxtrans), [Graphite](https://github.com/graphite-project/), [Grafana](https://github.com/grafana/grafana), [Seyren](https://github.com/scobal/seyren)
   * Jdbc, aggrégation, mail / Graphite (plaintext protocol)
 
