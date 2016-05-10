@@ -35,6 +35,7 @@ Oscillant entre le développement et l’architecture logicielle, je considère 
   * Développement d’une structure pour les tests “sans IO”
   * Mise en place d’indicateurs JMX (Metrics + dynamicMXBean) pour le monitoring
 * Architecture et développement d’un projet traçant toutes les connexions avec le système, respectant les critères : fiabilité et haute disponibilité)
+  * Logstash, RabbitMQ, spring-integration
 * Mise en place de la supervision (monitoring et troubleshooting)
   * [JmxTrans](https://github.com/jmxtrans/jmxtrans), [Graphite](https://github.com/graphite-project/), [Grafana](https://github.com/grafana/grafana), [Seyren](https://github.com/scobal/seyren)
   * Jdbc, aggrégation, mail / Graphite (plaintext protocol)
