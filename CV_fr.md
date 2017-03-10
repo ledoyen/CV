@@ -6,6 +6,8 @@ Oscillant entre le développement et l’architecture logicielle, je considère 
 
 ## Compétences
 
+![Tech Cloud](tech_cloud_2017_03_10.png)
+
 * Java 5 à 8, Scala
 * Maven 3, Jenkins, Sonar
 * Spring (+ mvc, data-jpa, orm, batch, integration, boot)
