@@ -23,7 +23,7 @@ Oscillant entre le développement et l’architecture logicielle, je considère 
 ## Expériences
 
 ### Aout 2014 – maintenant
-> ERDF (Linky), équipe de 25 personnes, Paris
+> ENEDIS (ex ERDF) (Linky et CCMA), équipe de 25 personnes, Paris
 
 * Développement d’un outil orienté plugin pour le test du système (15 JVM, 3 bases Oracle, middleware JMS, OMA-DS).
   * Développement de connecteurs (OMA-DS, JMS, SSH, JDBC, JMX)
