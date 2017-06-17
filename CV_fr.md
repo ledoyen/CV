@@ -6,8 +6,6 @@ Oscillant entre le développement et l’architecture logicielle, je considère 
 
 ## Compétences
 
-![Tech Cloud](tech_cloud_2017_03_10.png)
-
 * Java 5 à 8, Scala
 * Maven 3, Jenkins, Sonar
 * Spring (+ mvc, data-jpa, orm, batch, integration, boot)
@@ -103,3 +101,4 @@ Création du socle technique pour le service d’infoconso.
 * [Spring 3.1 : Utiliser l’abstraction de cache](http://blog.soat.fr/2012/05/spring-3-1-utiliser-labstraction-de-cache/)
 * [Spring 3.1 : Utiliser l’abstraction de cache – 2 “le retour”  ](http://blog.soat.fr/2012/08/spring-3-1-utiliser-labstraction-de-cache-2-le-retour/)
 
+![Tech Cloud](tech_cloud_2017_03_10.png)
